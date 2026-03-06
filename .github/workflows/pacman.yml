@@ -5,8 +5,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 permissions:
   contents: write
@@ -18,9 +17,10 @@ jobs:
 
     steps:
       - name: Generate Pac-Man Graph
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_login: ${{ github.repository_owner }}
+          github_user_name: im-apratap
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
