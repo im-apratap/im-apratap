@@ -1,7 +1,7 @@
 <h1 align="center">Hey Hi Hello 😇</h1>
 
 <p align="center">
-I'm <b>Aaditya Pratap</b> — a <b>B.Tech (EEE)</b> student and <b>Full‑Stack Developer</b> specializing in <b>Backend Engineering</b> and <b>Web3 Ecosystem Building</b>.
+I'm <b>Aaditya Pratap</b> - a <b>B.Tech (EEE)</b> student and <b>Full‑Stack Developer</b> specializing in <b>Backend Engineering</b> and <b>Web3 Ecosystem Building</b>.
 <br/>
 Currently a <b>Research Intern at IIT BHU</b> focusing on <b>LLM Security</b>, working at the intersection of <b>AI</b>, <b>blockchain</b>, and <b>scalable backend systems</b>.
 </p>
@@ -15,8 +15,6 @@ Currently a <b>Research Intern at IIT BHU</b> focusing on <b>LLM Security</b>, w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react native logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres logo" />
@@ -27,7 +25,7 @@ Currently a <b>Research Intern at IIT BHU</b> focusing on <b>LLM Security</b>, w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="55" alt="rust logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solana" height="55" alt="solana logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react native logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
   <img width="12" />
